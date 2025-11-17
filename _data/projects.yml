@@ -1,0 +1,14 @@
+- name: "Accessibility under Extreme Weather"
+  short: "Analyzed flood impacts on healthcare access"
+  url: "/projects/accessibility-extreme-weather/"
+  description: "Key researcher on study quantifying flood-induced service disruption and population coverage loss; informed climate-resilient service delivery strategies."
+
+- name: "Anaemia Hotspot Mapping"
+  short: "Spatial risk mapping of anaemia in school-aged children"
+  url: "/projects/anaemia-risk-mapping/"
+  description: "Mapped anaemia risk to inform targeted interventions across Western Kenya using spatial clustering and risk models."
+
+- name: "Under‑Five Mortality Profiling"
+  short: "Sub‑national child health profiles for Kenya’s counties"
+  url: "/projects/u5-mortality-profiles/"
+  description: "Synthesised literature and designed regional child health profiles to highlight temporal trends and determinants of under-five mortality."
