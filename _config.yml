@@ -1,8 +1,10 @@
-title: "Bibian N. Robert"
+title: "Bibian Robert"
 email: "you@example.com"
-description: "Geospatial Research Scientist | Data‑Science | MNCAH"
-baseurl: "" # for https://yourusername.github.io
-url: "https://yourusername.github.io"
+description: "Geospatial Research Scientist | Data-Science | MNCAH"
+
+# Since this will be served from the root of your user site:
+baseurl: ""                      # <-- keep empty for user site
+url: "https://bibian-robert.github.io"
 
 nav:
   - { name: "About", link: "/about/" }
